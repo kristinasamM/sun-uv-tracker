@@ -1,0 +1,15 @@
+{
+  "name": "sun-uv-tracker",
+  "version": "1.0.0",
+  "description": "UV Index Tracker using OpenUV API with Express.js and Axios",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1"
+  }
+}
